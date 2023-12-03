@@ -13,7 +13,7 @@ Star⭐ the repo if you like what you see😉.
 
 | 3 |
 |------|-------|
-|<img src="ss/4.png" width="400">|<img src="ss/5.png" width="400">|
+|<img src="ss/5.png" width="400">|
 
 
 ## Getting Started
